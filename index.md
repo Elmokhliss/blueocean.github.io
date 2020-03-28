@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This is the official Github page for Elmokhliss Jawad
 
 [Link to another page](./another-page.html).
 
